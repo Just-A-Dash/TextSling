@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#1A6B52</color>
+
+    <!--
+        Material3 Dark Scheme (seed #1A6B52 — muted teal-green)
+        AMOLED black surfaces + solarized-inspired warm off-whites.
+        Text is #E1E3DF (not pure white) to reduce eye strain.
+    -->
+    <color name="md_theme_primary">#88D9BA</color>
+    <color name="md_theme_onPrimary">#003826</color>
+    <color name="md_theme_primaryContainer">#005138</color>
+    <color name="md_theme_onPrimaryContainer">#A4F2D4</color>
+
+    <color name="md_theme_secondary">#B2CEC0</color>
+    <color name="md_theme_onSecondary">#1E352B</color>
+    <color name="md_theme_secondaryContainer">#354C42</color>
+    <color name="md_theme_onSecondaryContainer">#CEE9DB</color>
+
+    <color name="md_theme_tertiary">#A7CCE0</color>
+    <color name="md_theme_onTertiary">#083545</color>
+    <color name="md_theme_tertiaryContainer">#234C5C</color>
+    <color name="md_theme_onTertiaryContainer">#C3E8FC</color>
+
+    <color name="md_theme_error">#FFB4AB</color>
+    <color name="md_theme_onError">#690005</color>
+    <color name="md_theme_errorContainer">#93000A</color>
+    <color name="md_theme_onErrorContainer">#FFDAD6</color>
+
+    <!-- AMOLED black base -->
+    <color name="md_theme_background">#000000</color>
+    <color name="md_theme_onBackground">#E1E3DF</color>
+    <color name="md_theme_surface">#000000</color>
+    <color name="md_theme_onSurface">#E1E3DF</color>
+
+    <!-- Warm-tinted dark grays for card/surface elevation distinction -->
+    <color name="md_theme_surfaceVariant">#404944</color>
+    <color name="md_theme_onSurfaceVariant">#BFC9C2</color>
+    <color name="md_theme_outline">#899389</color>
+    <color name="md_theme_outlineVariant">#404944</color>
+    <color name="md_theme_surfaceContainer">#121512</color>
+    <color name="md_theme_surfaceContainerHigh">#1C1F1C</color>
+
+    <!-- Semantic: brighter on dark for legibility -->
+    <color name="status_signed_in">#56D99B</color>
+    <color name="status_signed_out">#899389</color>
+    <color name="remove_button">#FFB4AB</color>
+
+    <color name="ic_launcher_background">#1A6B52</color>
+</resources>

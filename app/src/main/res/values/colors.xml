@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#1A6B52</color>
+
+    <!-- Material3 Light Scheme (derived from seed #1A6B52 - muted teal-green) -->
+    <color name="md_theme_primary">#1A6B52</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#A4F2D4</color>
+    <color name="md_theme_onPrimaryContainer">#002116</color>
+
+    <color name="md_theme_secondary">#4C6359</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#CEE9DB</color>
+    <color name="md_theme_onSecondaryContainer">#092018</color>
+
+    <color name="md_theme_tertiary">#3F6374</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#C3E8FC</color>
+    <color name="md_theme_onTertiaryContainer">#001E2B</color>
+
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+
+    <color name="md_theme_background">#FBFDF9</color>
+    <color name="md_theme_onBackground">#191C1A</color>
+    <color name="md_theme_surface">#FBFDF9</color>
+    <color name="md_theme_onSurface">#191C1A</color>
+    <color name="md_theme_surfaceVariant">#DBE5DE</color>
+    <color name="md_theme_onSurfaceVariant">#404944</color>
+    <color name="md_theme_outline">#707973</color>
+    <color name="md_theme_outlineVariant">#BFC9C2</color>
+    <color name="md_theme_surfaceContainer">#EDF0EC</color>
+    <color name="md_theme_surfaceContainerHigh">#E7EAE6</color>
+
+    <color name="status_signed_in">#1B7D5B</color>
+    <color name="status_signed_out">#6B7B74</color>
+    <color name="remove_button">#BA1A1A</color>
+
+    <color name="ic_launcher_background">#1A6B52</color>
+</resources>
