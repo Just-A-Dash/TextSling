@@ -2,7 +2,7 @@
 
 An Android app that forwards you messages from one phone number to another via SMS/RCS, and alternatively, an email should you so desire.
 
-Why did I make this? Well, I happened to get an alternate phone which I've designated as a backup with its own phone line, but it's very tedious to have to log into every service my main phone line is registered with, that is sent OTPs for authentication/logging in. I got too lazy to have to look on one phone and entering it in the other one.
+Why did I make this? Well, I happened to get an alternate phone which I've designated as a backup with its own phone line, but it's very tedious to have to log into every service my main phone line is registered with, that is sent OTPs to, for authentication/logging in. I got too lazy to have to look on one phone and enter it in the other.
 
 I did not want to mass forward all texts my main phone received indiscriminately to my backup, and my service provider has no option for intercepting and forwarding only OTPs in specific.
 
